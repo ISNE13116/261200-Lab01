@@ -348,6 +348,7 @@ public class Main{
         }
 
         // END RAINBOW //
+
         turd.setPosition(9999,9999);
     }
 }
